@@ -1,3 +1,9 @@
+# @autor Cristhian Alejandro Luna Bravo
+# @version 0.1
+# @date 30/06/2020
+# @last update 30/06/2020
+
+#Ejercicio 7
 primerValor=int(input("Ingrese primer valor: "))
 segundoValor=int(input("Ingrese segundo valor: "))
 tercerValor=int(input("Ingrese tercer valor: "))

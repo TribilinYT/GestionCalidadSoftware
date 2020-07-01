@@ -1,5 +1,9 @@
-# Ejercicio 716: Crear una función para convertir un número romano a un número entero.
+# @autor Cristhian Alejandro Luna Bravo
+# @version 0.1
+# @date 30/06/2020
+# @last update 30/06/2020
 
+# Ejercicio 19
 numeroReal=str(input("Ingrese Numero Romano: "))
 
 def romano_a_entero(romano):

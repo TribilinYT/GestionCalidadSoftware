@@ -1,3 +1,8 @@
+# @autor Cristhian Alejandro Luna Bravo
+# @version 0.1
+# @date 30/06/2020
+# @last update 30/06/2020
+
 valorKilometros=float(input("Ingrese valor total de Km recorridos: "))
 valorGasolina=float(input("Ingrese valor $ de gasolina por Litros: "))
 valorDinero=float(input("Ingrese valor $ gastado en el viaje: "))

@@ -1,5 +1,9 @@
+# @autor Cristhian Alejandro Luna Bravo
+# @version 0.1
+# @date 30/06/2020
+# @last update 30/06/2020
 
-#
+#Ejercicio 11
 #Se inicializan el valor de entrada y un acumulador (sumaAcumulada)
 valor=int(input("Ingrese un valor numerico entre 10 y 99 "))
 sumaAcumulada=int(0)
