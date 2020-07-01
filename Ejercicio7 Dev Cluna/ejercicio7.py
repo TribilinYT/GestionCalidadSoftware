@@ -4,9 +4,25 @@
 # @last update 30/06/2020
 
 #Ejercicio 7
-primerValor=int(input("Ingrese primer valor: "))
-segundoValor=int(input("Ingrese segundo valor: "))
-tercerValor=int(input("Ingrese tercer valor: "))
+
+primerValor=0
+segundoValor=0
+tercerValor=0
+
+#Validacion Numerica
+
+while( float(primerValor) <=0):
+  primerValor=int(input("Ingrese primer valor: "))
+print()
+
+while( float(segundoValor) <=0):
+   segundoValor=int(input("Ingrese segundo valor: "))
+print()
+
+while( float(tercerValor) <=0):
+   tercerValor=int(input("Ingrese tercer valor: "))
+print()
+
 
 #Los numeros primos son mayores que uno
 if (primerValor > 1):
