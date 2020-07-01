@@ -8,6 +8,7 @@ valorInicial=0
 valorFinal=0
 valorMultiplo=0
 
+#validacion
 while(valorInicial<=0) or (valorFinal<=0) or (valorMultiplo <=0):
     print("Ingrese una valor mayor a CERO")
     valorMultiplo=int(input("Ingrese el valor a Multiplicar: "))

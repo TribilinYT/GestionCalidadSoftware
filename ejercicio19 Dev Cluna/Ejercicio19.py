@@ -4,6 +4,8 @@
 # @last update 30/06/2020
 
 # Ejercicio 19
+
+print("Los numeros Romanos son: ","'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 100 ")
 numeroReal=str(input("Ingrese Numero Romano: "))
 
 def romano_a_entero(romano):

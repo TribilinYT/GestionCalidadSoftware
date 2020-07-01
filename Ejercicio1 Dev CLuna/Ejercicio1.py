@@ -5,9 +5,10 @@
 
 
 #Ejercicio 1
-print("Ingrese valor en Centimetros")
-
-valorCentimetros=input()
+#validacion Numerica
+valorCentimetros=0
+while( int(valorCentimetros) <=0):
+    valorCentimetros=float(input("Ingrese un valor Numerico: "))
 
 print("El valor ingresado es: "+ str(valorCentimetros)+" cm \n")
 
